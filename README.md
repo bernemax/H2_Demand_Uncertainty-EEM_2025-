@@ -9,7 +9,6 @@ Sector coupled generation and transmission expansion planning under uncertainty
 |
 
 
-
-## Results
+## Expansion Results of Derived Scenarios
 
 ![](https://github.com/bernemax/H2_Demand_Uncertainty-EEM_2025-/blob/main/Pictures/H2_Infrastructure_Map.svg)
