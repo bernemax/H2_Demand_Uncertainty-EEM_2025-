@@ -4,7 +4,7 @@ The model used optimized a European sector coupled (electricity and hydrogen) ge
 We asses the impact of different (low to high) hydrogen demand forecast on a future decarbonized European energy system layout.
 Therefore, we statistically analyzed the hydrogen demand prospects from 32 studies, summarized by the European Hydrogen Observatory.
 
-- The Data of the hdrogen demand analysis are stored in the excle file in the "H2 Demand Analysis" folder
+- The Data of the hydrogen demand analysis are stored in the excle file in the "H2 Demand Analysis" folder
 - The model input data and the code of the model are stored in the Model EEM25 folder
 - We also provide the mathematical model formulation in a word file, stored in the Model EEM25 folder
 
