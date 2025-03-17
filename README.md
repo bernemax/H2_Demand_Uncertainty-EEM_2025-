@@ -15,7 +15,7 @@ We derive 5 scenarios out of a estimated normal distribution:
 | -----------------------------------------------------| ---------------------------------------------------------- |
 | <img src="https://github.com/bernemax/H2_Demand_Uncertainty-EEM_2025-/blob/main/Pictures/Hydrogen%20Demand%20Distribution.png" width=50% height=50%>  |  <img src="https://github.com/bernemax/H2_Demand_Uncertainty-EEM_2025-/blob/main/Pictures/Approximated%20Hydrogen%20demand%20distribution.png" width=50% height=50%>|
 
-## Investments
+## Investment Results
 
 <img src="https://github.com/bernemax/H2_Demand_Uncertainty-EEM_2025-/blob/main/Pictures/Investments%20into%20electricity%20technologies.png" width=70% height=70%> 
 
