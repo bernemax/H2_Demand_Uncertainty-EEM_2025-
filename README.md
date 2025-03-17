@@ -4,15 +4,18 @@ The model used optimized a European sector coupled (electricity and hydrogen) ge
 We asses the impact of different (low to high) hydrogen demand forecast on a future decarbonized European energy system layout.
 Therefore, we statistically analyzed the hydrogen demand prospects from 32 studies, summarized by the European Hydrogen Observatory.
 
-
+- The Data of the hdrogen demand analysis are stored in the excle file in the "H2 Demand Analysis" folder
+- The model input data and the code of the model are stored in the Model EEM25 folder
 
 ## H2 Demand Data
+We derive 5 scenarios out of a estimated normal distribution:
 
 | Emiirical Demand estimates for Europe 2025           | Estimated H2 Demand Distribution                           |
 | -----------------------------------------------------| ---------------------------------------------------------- |
 | <img src="https://github.com/bernemax/H2_Demand_Uncertainty-EEM_2025-/blob/main/Pictures/Hydrogen%20Demand%20Distribution.png" width=50% height=50%>  |  <img src="https://github.com/bernemax/H2_Demand_Uncertainty-EEM_2025-/blob/main/Pictures/Approximated%20Hydrogen%20demand%20distribution.png" width=50% height=50%>|
 
 
-## Expansion Results of Derived Scenarios
+## No Regret Expansion Results 
+We present no reget investment options:
 
 ![](https://github.com/bernemax/H2_Demand_Uncertainty-EEM_2025-/blob/main/Pictures/H2_Infrastructure_Map.svg)
