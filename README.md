@@ -6,6 +6,7 @@ Therefore, we statistically analyzed the hydrogen demand prospects from 32 studi
 
 - The Data of the hdrogen demand analysis are stored in the excle file in the "H2 Demand Analysis" folder
 - The model input data and the code of the model are stored in the Model EEM25 folder
+- We also provide the mathematical model formulation in a word file, stored in the Model EEM25 folder
 
 ## H2 Demand Data
 We derive 5 scenarios out of a estimated normal distribution:
