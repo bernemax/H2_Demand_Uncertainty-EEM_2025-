@@ -16,13 +16,10 @@ We derive 5 scenarios out of a estimated normal distribution:
 
 ## Investments
 
-![](https://github.com/bernemax/H2_Demand_Uncertainty-EEM_2025-/blob/main/Pictures/Investments%20into%20electricity%20technologies.png)
+<img src="https://github.com/bernemax/H2_Demand_Uncertainty-EEM_2025-/blob/main/Pictures/Investments%20into%20electricity%20technologies.png" width=70% height=70%> 
 
 ![](https://github.com/bernemax/H2_Demand_Uncertainty-EEM_2025-/blob/main/Pictures/Investments%20into%20hydrogen%20technologies.png)
 
-## Generation Capacities
-
-![](https://github.com/bernemax/H2_Demand_Uncertainty-EEM_2025-/blob/main/Pictures/Generation_Capacity.png)
 
 ## No Regret Expansion Results 
 
