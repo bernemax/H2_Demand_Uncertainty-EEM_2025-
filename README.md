@@ -1,4 +1,4 @@
-# H2 Uncertainty Model - EEM 2025 -
+# Model - EEM 2025 -
 This repository entails the code and data of our case study, submitted to the EEM2025 Conference in Lissabon.
 The model used optimized a European sector coupled (electricity and hydrogen) generation and transmission expansion planning problem for the year 2050.
 We asses the impact of different (low to high) hydrogen demand forecast on a future decarbonized European energy system layout.
